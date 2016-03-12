@@ -1,0 +1,23 @@
+#include <iostream>
+
+#define N 1000
+
+using namespace std;
+
+int sold[N];
+
+int main()
+{
+   int m, n, k;
+
+   cin>>n>>m>>k;
+   
+   // __buitin_popcount(x)  --> contador de bits encendidos
+   
+   while(m + 1)
+   {
+       
+   }
+
+   return 0;
+}
